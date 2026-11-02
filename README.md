@@ -255,4 +255,4 @@ The vulnerable application must be kept in an isolated environment and should ne
 Computer Science Undergraduate | Software Engineer | Cloud & DevOps Enthusiast
 
 - [GitHub](https://github.com/youssefsaber592-netizen)
-- [LinkedIn](https://linkedin.com/in/youssef-saber/)
+- [LinkedIn](https://linkedin.com/in/youssef-saber-/)
